@@ -21,7 +21,7 @@ Xilin Tang <xt253@cornell.edu>\
 Yuqi Mai <ym562@cornell.edu>\
 Bo Liu <bl685@cornell.edu>\
 Yixuan Gao <yg478@cornell.edu>\
-Hao Phung <htp26@cornell.edu>\
+Hao Phung <htp26@cornell.edu>
 
 TA Office hours: These will be announced on our Slack instance. Please join the
 #office-hours channel on Slack for virtual OH and expect TA response in 24h.
@@ -65,7 +65,7 @@ participation; the default will be that everyone gets the full 10\% but we
 reserve the right to start taking attendance or otherwise change how
 participation is alotted if lecture attendance/participation proves poor.
 
-### Background reading and Lecture note
+### Background reading and Lecture Notes
 
 While no textbook is required, we will be basing a lot of content on the [Kleinberg and Tardos textbook](https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003259/9780137546350).
 
