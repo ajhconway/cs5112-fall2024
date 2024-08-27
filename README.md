@@ -18,6 +18,11 @@ with me before class that day ideally via email or Slack (otherwise I will free
 up the time).
 
 TAs:
+Xilin Tang <xt253@cornell.edu>
+Yuqi Mai <ym562@cornell.edu>
+Bo Liu <bl685@cornell.edu>
+Yixuan Gao <yg478@cornell.edu>
+Hao Phung <htp26@cornell.edu>
 
 TA Office hours: These will be announced on our Slack instance. Please join the
 #office-hours channel on Slack for virtual OH and expect TA response in 24h.
@@ -67,4 +72,4 @@ While no textbook is required, we will be basing a lot of content on the [Kleinb
 
 ## Lecture schedule
 
-The lecture and homework schedule will be released in the first week of class.
+The (tentative) lecture and homework schedule can be found [here](https://docs.google.com/spreadsheets/d/1fI9qSRXQI19L43OZwzBc_fsFxwSVE8cHtWldDbcIzTg/edit?usp=sharing).
