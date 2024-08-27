@@ -65,10 +65,10 @@ participation; the default will be that everyone gets the full 10\% but we
 reserve the right to start taking attendance or otherwise change how
 participation is alotted if lecture attendance/participation proves poor.
 
-### Background reading and Lecture Notes
+### Background Reading and Lecture Notes
 
 While no textbook is required, we will be basing a lot of content on the [Kleinberg and Tardos textbook](https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003259/9780137546350).
 
-## Lecture schedule
+## Lecture Schedule
 
 The (tentative) lecture and homework schedule can be found [here](https://docs.google.com/spreadsheets/d/1fI9qSRXQI19L43OZwzBc_fsFxwSVE8cHtWldDbcIzTg/edit?usp=sharing).
