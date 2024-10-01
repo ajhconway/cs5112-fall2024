@@ -26,8 +26,9 @@ Hao Phung <htp26@cornell.edu>
 TA Office hours: These will be announced on our Slack instance. Please join the
 #office-hours channel on Slack for virtual OH and expect TA response in 24h.
 
-You will be invited to a class slack, which we will use for announcements, Q&A,
-etc.
+### Slack
+
+Please join the class [Slack](https://join.slack.com/t/cs5112-fall2024/shared_invite/zt-2paj0cjd1-wYmk~IWVXX1dcJ96yn471Q). The Slack is used for announcements, questions, and office hours.
 
 ### Pre-requisites
 
